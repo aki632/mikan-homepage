@@ -1,0 +1,48 @@
+html {
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", HelveticaNeue, "Segoe UI", "ü‡ÉSÉVÉbÉNëÃ", YuGothic, "Yu Gothic M", "ü‡ÉSÉVÉbÉN Medium", "Yu Gothic Medium", "ÉqÉâÉMÉmäpÉS ProN W3", "Hiragino Kaku Gothic ProN W3", HiraKakuProN-W3, "ÉqÉâÉMÉmäpÉS ProN", "Hiragino Kaku Gothic ProN", "ÉqÉâÉMÉmäpÉS Pro", "Hiragino Kaku Gothic Pro", "ÉÅÉCÉäÉI", Meiryo, Osaka, "ÇlÇr ÇoÉSÉVÉbÉN", "MS PGothic", sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent;
+}
+body {
+	margin: 0px; text-align: left; color: rgb(33, 37, 41); font-size: 1.25rem; font-weight: bold; background-color: rgb(255, 255, 255);
+}
+p {
+	color: rgb(33, 37, 41); font-weight: bold; -webkit-font-smoothing: antialiased;
+}
+.text-container {
+	margin: auto; width: 80%; letter-spacing: 0.1rem; font-size: 2vw; max-width: 800px;
+}
+#header-site {
+	background: url("../img/mv.png") no-repeat center / cover black; margin-bottom: 30px; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#header-site #header-site-inner {
+	margin: auto; padding: 40px 30px 60px; position: relative; max-width: 1080px;
+}
+#header-site #header-site-inner #header-site-inner-image {
+	margin: 150px auto; width: 100%;
+}
+.header-img {
+	width: 100%; height: auto;
+}
+.banner {
+	
+}
+.banner:hover {
+	opacity: 0.7;
+}
+img.radius {
+	margin: 20px 0px; border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px;
+}
+.nobreak {
+	display: inline-block;
+}
+.menu {
+	background: white; padding: 0.3em 1em; border-radius: 3px; transition:0.4s; color: rgb(237, 134, 0); font-size: 1em; text-decoration: none; display: inline-block;
+}
+.menu:hover {
+	background: rgb(237, 134, 0); color: white;
+}
+.button {
+	background: white; padding: 0.3em 1em; border-radius: 3px; border: 2px solid rgb(237, 134, 0); transition:0.4s; border-image: none; color: rgb(237, 134, 0); font-size: 1em; text-decoration: none; display: inline-block;
+}
+.button:hover {
+	background: rgb(237, 134, 0); color: white;
+}
